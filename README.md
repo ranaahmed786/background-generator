@@ -8,7 +8,6 @@ The Background Generator is a simple web application that allows users to create
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 # UI
 ![image](https://github.com/user-attachments/assets/9152ffcf-60df-40c5-a22a-ecf4210b1522)
 
